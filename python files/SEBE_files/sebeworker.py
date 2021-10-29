@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan  4 19:46:59 2021
-
-@author: bskar
+This code has been taken from 
 """
 
 from __future__ import print_function
