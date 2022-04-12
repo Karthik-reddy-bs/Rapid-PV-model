@@ -18,7 +18,7 @@ This is a repository which contains source code and documentation.
 
 ## Introduction
 
-PV models for rapid and continuous forecasting of the potential and production of photovoltaic energy at the neighbourhood and city scales. A combination of LiDAR (Light Detection and Ranging) geospatial data and meteorological forecasting data (SUEWS-UMEP) will achieve this.
+PV models for rapid and continuous forecasting of the potential and production of photovoltaic energy at the neighbourhood and city scales. A combination of LiDAR (Light Detection and Ranging) geospatial data and meteorological forecasting data ([SUEWS-UMEP](https://github.com/UMEP-dev)) will achieve this.
 
 ### PV Models
 **Model BR** - A building resolving model with detailed, explicit 3-dimensional PV panel placement considering rooftop geometry and topography to optimize each PV panel in an urban setting is considered as reference model. This is combined with a time-resolving urban radiation scheme (UMEP-SEBE) to calculate solar irradiance at 1 m2 resolution rooftop area. As this is computationally intensive, this model is used to: (i) parametrise other simpler PV models, and (ii) create a dataset to evaluate the simpler models.
